@@ -1,6 +1,6 @@
 import math
 
-# Original function
+# Original function f(x) = e^x
 def f(x):
     return math.exp(x)
 
